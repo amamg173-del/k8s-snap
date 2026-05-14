@@ -1,4 +1,4 @@
-name: Update CI dependencies
+Ama-Mgname: Update CI dependencies
 
 on:
   workflow_dispatch:
